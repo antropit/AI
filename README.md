@@ -1,2 +1,2 @@
-# AI-
+# AI³
 white papres
