@@ -1,2 +1,2 @@
 # AI³
-white paperes
+white papers
